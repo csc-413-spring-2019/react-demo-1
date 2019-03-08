@@ -2,6 +2,21 @@
   text-align: center;
 }
 
+.input-box {
+  width: 400px;
+  border: 2px solid black;
+  padding: 30px;
+  margin: 20px;
+  width: 300px;
+  height: 40px;
+  border-top-width: 20px;
+  border-bottom-width: 30px;
+}
+
+.input-box {
+  color: red;
+}
+
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
@@ -10,6 +25,7 @@
 
 .App-header {
   background-color: #282c34;
+  background-color: #d80b0b;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
